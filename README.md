@@ -5,7 +5,6 @@ Features
 ________
 
 - SASS
-  - 2014 worlflow
 - HTML5
 - jQuery
 
