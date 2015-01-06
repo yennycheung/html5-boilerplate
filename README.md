@@ -10,4 +10,4 @@ ________
 - jQuery
 
 Yenny Cheung | 2015
--credits to Shivam Bhalla for his Custom HTML5 Boilerplate
+- credits to Shivam Bhalla for his Custom HTML5 Boilerplate
